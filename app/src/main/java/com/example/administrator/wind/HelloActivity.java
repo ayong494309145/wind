@@ -12,5 +12,8 @@ public class HelloActivity extends Activity {
         super.onCreate(savedInstanceState);
 
         //联发科三等奖给老师的
+
+
+
     }
 }
