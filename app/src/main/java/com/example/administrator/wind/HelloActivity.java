@@ -10,5 +10,7 @@ public class HelloActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        //联发科三等奖给老师的
     }
 }
